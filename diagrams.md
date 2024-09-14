@@ -18,6 +18,9 @@ Conforme solicitado, abaixo estão todos os diagramas mencionados na documentaç
 8. [Fluxograma do Processo de Aprovação Hierárquica](#8-fluxograma-do-processo-de-aprovação-hierárquica)
 
 ---
+Aqui está a correção para os diagramas em Mermaid. Basta copiar e colar no Git:
+
+---
 
 ## 1. Diagrama de Arquitetura da Aplicação
 
